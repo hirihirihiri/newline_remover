@@ -1,7 +1,3 @@
-#def n_remove(text):
-#    res = text.replace('\n', '')
-#    return res
-
 import PySimpleGUI as sg
 import pandas as pd
 
